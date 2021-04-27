@@ -23,7 +23,7 @@ This document contains the following details:
 
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
 
-Load balancing ensures that the application will be highly available, in addition to restricting access to the network. The off-loading function of a load balancer defends an organization against distributed denial-of-service attacks (DDoS). It does this by shifting attack traffic from the coporate server to a public cloud provider. Having a Jump Box has an advantage of being a securecomputer that all admins first connect to before launching an administrative task or use as an orgination point to connect to other servers or untrusted environments.
+Load balancing ensures that the application will be highly available, in addition to restricting access to the network. The off-loading function of a load balancer defends an organization against distributed denial-of-service attacks (DDoS). It does this by shifting attack traffic from the corporate server to a public cloud provider. Having a Jump Box has an advantage of being a secure computer that all admins first connect to before launching an administrative task or use as an origin point to connect to other servers or untrusted environments.
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the data and system logs.
 - Filebeat monitors the log files or locations that you specify, collects log events, and forwards them either to Elasticsearch or Logstash for indexing.
