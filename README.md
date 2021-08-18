@@ -1,4 +1,4 @@
-# First-Project
+# Elk-Stack-Project
 My first cloud network
 ## Automated ELK Stack Deployment
 
